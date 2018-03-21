@@ -1,0 +1,43 @@
+[
+    "main.html", [
+        "kind-ouder-model.html",
+        "kov2.html",
+        "kovinfo.html"
+    ],
+    [
+        "strookprofiel.html",
+        "strookinfo.html"
+    ],
+    [
+        "spanningsboog.html",
+        "spanningsinfo.html"
+    ],
+    [
+        "schijf-van-5.html",
+        "schijfinfo.html"
+    ],
+    [
+        "vensters.html",
+        "venstersfilm.html",
+        "venstersinfo.html"
+    ],
+    [
+        "tijdstructurering.html",
+        "tijdinfo.html"
+    ],
+    [
+        "drivers-injuncties.html",
+        "driversfilm.html",
+        "driversinfo.html"
+    ],
+    [
+        "scriptproces.html",
+        "scriptfilm.html",
+        "scriptinfo.html"
+    ],
+    [
+        "miskenning.html",
+        "miskenningfilm.html",
+        "miskenningsinfo.html"
+    ]
+]
