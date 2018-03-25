@@ -1,5 +1,6 @@
 [
-    "main.html", [
+    "main.html",
+    [
         "kind-ouder-model.html",
         "kov2.html",
         "kovinfo.html"
@@ -37,6 +38,7 @@
     ],
     [
         "miskenning.html",
+        "matrixuitgebreid.html",
         "miskenningfilm.html",
         "miskenningsinfo.html"
     ]
